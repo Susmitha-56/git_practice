@@ -19,8 +19,8 @@
       </nav>
     </header>
     <section>
-      <h1> <em><strong>Thankyou!!! Donors</strong></em></h1>
-      <p>Give the Gift Of THE LIFE</p>
+      <h1> <em><strong>Thankyou!!! Donors!!!</strong></em></h1>
+      <p>Give the Gift Of LIFE</p>
 	  <form action="./search.php">
     <input type="submit" id="submit" value="Need Blood"></form><br><br>
     <form action="./admin.php">
