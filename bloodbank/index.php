@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>changes</title>
 <link rel='stylesheet' type='text/css' href='./css/home.css' />
 </head>
 <body>
   <body>
     <header>
       <a href="#" class="logo">
-        <em>Blood Bank</em>
+        <em>Blood Bank Management</em>
       </a>
       <nav>
         <ul>
@@ -19,7 +20,7 @@
     </header>
     <section>
       <h1> <em><strong>Thankyou!!! Donors</strong></em></h1>
-      <p>Give The Gift Of LIFE</p>
+      <p>Give the Gift Of LIFE</p>
 	  <form action="./search.php">
     <input type="submit" id="submit" value="Need Blood"></form><br><br>
     <form action="./admin.php">
