@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Register</title>
     <link rel="stylesheet" href="css/fullcss.css">
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif|Lobster' rel='stylesheet' type='text/css'>
     
